@@ -1,0 +1,25 @@
+.col-sm-3 {
+    /* justify-content: space-around; */
+    font-size: 72px;
+    width: 150px;
+    color: #fff;
+    padding-top: 0;
+    /* margin-right: -40px; */
+    font-family: fantasy;
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: blue!important;
+}
+
+#expense {
+    background-color: blue!important;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+}
+
+* {
+    font-family: "Arial Rounded MT Bold";
+    /* font-size: 15px; */
+}

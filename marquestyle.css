@@ -1,0 +1,23 @@
+.green {
+    color: rgb(39, 202, 39);
+}
+
+.blue {
+    color: rgb(42, 122, 235);
+}
+
+.mq {
+    background-size: 2px;
+    margin-top: 20px;
+    margin-bottom: 7px;
+    /* text-align: center; */
+    color: white;
+}
+
+#mq {
+    background-color: #316DC3;
+}
+
+.line {
+    color: rgb(39, 202, 39);
+}

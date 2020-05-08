@@ -1,0 +1,29 @@
+.col-sm {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 12px 12px 30px rgb(221, 219, 219);
+    box-shadow: #202020;
+    width: 90px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    text-align: center;
+    /* padding-top: 20px; */
+    margin-right: 20px;
+    padding: 40px;
+}
+
+.row {
+    margin-top: 20px;
+    /* margin-left: 20px; */
+    /* margin-right: 20px; */
+}
+
+#ab {
+    background-color: rgb(250, 249, 249);
+    margin-top: -25px;
+}
+
+
+/* #cm {
+    margin-right: 20px;
+} */
